@@ -1,0 +1,17 @@
+.clear{
+    height: 50px;
+    background-color: red;
+    margin-top: 10px;
+    border-radius: 15px;
+    margin: 4px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.clear:hover{
+    background-color: darkgoldenrod;
+}
